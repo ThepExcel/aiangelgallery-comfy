@@ -8,4 +8,4 @@ To install this custom node, navigate to the `custom_nodes` directory of your Co
 
 ```bash
 cd custom_nodes
-git clone https://github.com/ThepExcel/aiangelgallery-comfy
+git clone https://github.com/ThepExcel/aiangelgallery-comfyui

@@ -9,9 +9,11 @@ To install this custom node, navigate to the `custom_nodes` directory of your Co
 ```bash
 cd custom_nodes
 git clone https://github.com/ThepExcel/aiangelgallery-comfyui
+```
 
 **Pull the Latest Changes from GitHub:**
 Execute the following command to fetch and merge the latest updates:
 
 ```bash
 git pull https://github.com/ThepExcel/aiangelgallery-comfyui
+```

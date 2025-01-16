@@ -1,0 +1,14 @@
+[project]
+name = "aiangelgallery-comfyui"
+description = "This custom node for ComfyUI allows users to input multiline text and select a specific line by its number. The node processes the input and returns the selected line along with its index."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/ThepExcel/aiangelgallery-comfyui"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "aiangelgallery-comfyui"
+Icon = ""
